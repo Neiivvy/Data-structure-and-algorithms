@@ -1,1 +1,2 @@
 # Data-structure-and-algorithms
+This repository contains collection of data structures and algorithms (DSA) implementations in c++ language.It includes wide range of topics from loops(patterns like: stars, numbers), arrays, stacks, linked list, ,searching and sorting algorithms and more. It serves as a great resource for anyone preparing for coding interviews or building their problem solving skills.
