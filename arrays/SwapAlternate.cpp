@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 // function for alternate swapping
+//in alternate swappping we swap adjacent elements(elements next to each other from start)
 void Alternate(int arr[],int size){
     for(int i=0;i<size;i+=2){
         if(i+1<size){

@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 //function for reverse operation
+//in reverse operation we swap the corresponding start and end of the array
 void reverse(int arr[],int m)
 {
     int start=0,end=m-1;
@@ -18,7 +19,7 @@ int main()
     int n,a[10];
     cout<<"Enter the size of array\n";
     cin>>n;
-    cout<<"Enter the numbers\n";
+    cout<<"Enter the numbers\n";  
     for(int i=0;i<n;i++)
     cin>>a[i];
     reverse(a,n);

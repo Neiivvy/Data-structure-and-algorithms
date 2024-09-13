@@ -2,7 +2,7 @@
 #include<math.h>
 using namespace std;
 //POSITIVE DECIMAL TO BINARY
-//correct in other compilers but not in here
+
 int main()
 {
     int n;
